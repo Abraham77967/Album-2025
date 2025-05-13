@@ -149,4 +149,4 @@ This is a client-side access control system meant for simple privacy, not high s
 
 ## License
 
-All rights reserved. 
+All rights reserved.
